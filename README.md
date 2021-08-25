@@ -1,5 +1,6 @@
 # TLS-1.2-Vs-TLS-1.3
 Realizing performance benefits of TLS 1.3 over TLS 1.2;
+This repo contains only the report for the project that was done, it comprises of all the necessary steps to replicate everything on your local machine;
 
 # TLS 1.2 vs TLS 1.3: What are the Main Differences?
 TLS 1.3 offers several improvements over earlier versions, most notably a faster TLS handshake and simpler, more secure cipher suites. 
